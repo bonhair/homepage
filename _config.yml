@@ -1,36 +1,34 @@
-# Jekyll configuration
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
-production_url: https://jekyller.github.io/jasper2/
-source_url: https://github.com/jekyller/jasper2/
+title: BONHAIR
+description: 정직한 마음으로, 기본을 지키고 가치를 창출합니다. # 메인 문구
+cover: False #assets/images/bonhair/min-ji.jpge
+logo: False # 로고 이미지 : assets/images/blog-icon.png
+logo_dark: False # 로고 이미지 : assets/images/favicon.png
+favicon: # 탭 이미지 : assets/images/favicon.png
+production_url: http://www.bonhair.co.kr/
+source_url: https://github.com/bonhair/homepage/
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: False
+facebook: bonhair151220
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: bonhair # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-117588004-1
 
 # Permalinks
 permalink: /:title
@@ -66,13 +64,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: bonhair
+repo: homepage
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+relative_source: ../homepage/
+destination: ../homepage-pages/
+production_url: http://www.bonhair.co.kr/
+source_url:  https://github.com/bonhair/homepage/
 
 exclude:
   - assets/css
