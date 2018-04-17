@@ -44,17 +44,19 @@
         {% endif %}
 
         <!-- The footer at the very bottom of the screen -->
+        <br>
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
                 <section class="copyright"><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a> &copy; {{  site.time | date: '%Y' }}</section>
-                <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
-                    <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
-                    <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>
+                <section class="poweredby">
+                    본헤어 ☎︎ 041-622-8822 <br>
+                    충남 천안시 동남구 신부동 468-11 씨엔에이타워 3층 본헤어 <br>
+                    대표자::이창원 사업자번호::651-55-00074 <br>
+                </section>
                 <nav class="site-footer-nav">
-                    <a href="{{ site.baseurl }}">Latest Posts</a>
                     {% if site.facebook %}<a href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">Facebook</a>{% endif %}
                     {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">Twitter</a>{% endif %}
-                    <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
+                    <a href="https://www.instagram.com/explore/tags/%EB%B3%B8%ED%97%A4%EC%96%B4/" target="_blank" rel="noopener">Instagram</a>
                 </nav>
             </div>
         </footer>
@@ -124,4 +126,9 @@
     <!-- ghost_foot -->
 
 </body>
+
+<a class="btn" style="position: fixed; left: 10px; bottom: 10px; z-index: 100;" href="{{site.baseurl}}">HOME</a>
+
+<a class="btn" style="position: fixed; right: 10px; bottom: 10px; z-index: 100;" onclick="window.scrollTo(0, 1);">TOP</a>
+
 </html>
