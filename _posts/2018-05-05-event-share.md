@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/bonhair/content/event/share/00.png
+cover:  assets/images/bonhair/content/event/share/00.jpg
 navigation: True
 title: 홈페이지 공유 이벤트
 date: 2018-05-05 10:00:00
@@ -11,7 +11,7 @@ subclass: 'post tag-event'
 author: bonhair
 ---
 
-<p><img src="{{ site.baseurl }}assets/images/bonhair/content/event/share/01.gif" alt="Small Test Image" /></p>
+<p><img src="{{ site.baseurl }}assets/images/bonhair/content/event/share/01.jpg" alt="Small Test Image" /></p>
 <center><h2 id="textlevelsemantics">홈페이지 공유 이벤트</h2></center>
 <center>홈페이지 공유시</center>
 <center><mark>10% 할인 혜택</mark>을 드립니다.</center>

@@ -38,5 +38,3 @@ author: bonhair
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/da-sol.jpg" alt="Small Test Image" /></p>
 <center>인턴 예슬</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/ye-seul.jpg" alt="Small Test Image" /></p>
-<center>인턴 태성</center>
-<p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/tae-seong.jpg" alt="Small Test Image" /></p>
