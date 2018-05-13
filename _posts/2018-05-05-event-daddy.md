@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/bonhair/content/event/daddy/00.jpg
 navigation: True
 title: 자유부인&아빠힘내세요
-date: 2018-05-05 10:00:00
+date: 2018-05-09 10:00:00
 tags: [이벤트]
 class: post-template
 subclass: 'post tag-event'

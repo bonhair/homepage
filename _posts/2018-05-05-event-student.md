@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/bonhair/content/event/student/00.jpg
 navigation: True
 title: 나는 학생이다 시즌3
-date: 2018-05-05 10:00:00
+date: 2018-05-08 10:00:00
 tags: [이벤트]
 class: post-template
 subclass: 'post tag-event'
