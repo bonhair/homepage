@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/bonhair/content/procedure/ckeol/00.jpg
 navigation: True
 title: C컬 & 뿌리 펌
-date: 2018-03-31 10:00:00
+date: 2018-01-01 10:00:00
 tags: [시술]
 class: post-template
 subclass: 'post tag-procedure'

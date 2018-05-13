@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/bonhair/content/event/share/00.png
 navigation: True
 title: 홈페이지 공유 이벤트
-date: 2018-03-31 10:00:00
+date: 2018-05-05 10:00:00
 tags: [이벤트]
 class: post-template
 subclass: 'post tag-event'
