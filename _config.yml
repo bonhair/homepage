@@ -8,7 +8,8 @@ baseurl: /
 # Website info
 title: 본헤어
 display_title: BONHAIR
-description: 신부동 미용실, 신부동 본헤어, 천안 본헤어, 천안 미용실, 본헤어 천안 터미널사거리 근처 헤어샵, 컷, 펌, 염색, 매직, 클리닉
+description: 본헤어는 고객님 한분 한분의 마음까지 디자인하는 미용실입니다.
+keywords: 본헤어, BONHAIR, 천안 본헤어, 천안 미용실, 천안 머리, 천안 헤어, 신부동 본헤어, 신부동 미용실, 신부동 머리, 신부동 헤어, 미용실, 머리, 헤어, 본헤어 천안 터미널사거리 근처 헤어샵, 컷, 펌, 염색, 매직, 클리닉
 display_description: 정직한 마음으로, 기본을 지키고 가치를 창출합니다.
 cover: False #assets/images/bonhair/min-ji.jpge
 logo: False # 로고 이미지 : assets/images/blog-icon.png
