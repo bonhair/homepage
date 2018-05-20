@@ -32,6 +32,44 @@
 </head>
 <body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 
+    <div class="main-floating-header">
+        <div class="floating-header-logo">
+            <a href="{{ site.url }}{{ site.baseurl }}">
+                {% if site.logo_dark %}
+                <img src="{{ site.baseurl }}{{ site.logo_dark }}" alt="{{ site.title }} icon" />
+                {% endif %}
+                <span>{{ site.title }}</span>
+            </a>
+        </div>
+        <span class="floating-header-divider"></span>
+        <div class="floating-header-title">{{ page.title }}</div>
+        <div class="floating-header-share">
+            <div class="floating-header-share-label">공유하기 {% include point.html %}</div>
+            <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}"
+               onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+                <img src="{{ site.baseurl }}assets/images/bonhair/common/share/facebook.png"/>
+            </a>
+            <a class="floating-header-share-fb" href="http://share.naver.com/web/shareView.nhn?url={{ site.production_url }}{{ page.url | remove_first: '/' }}&title={{ site.title }}"
+               onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+                <img src="{{ site.baseurl }}assets/images/bonhair/common/share/naver.png"/>
+            </a>
+            <a class="floating-header-share-fb" onclick="javascript:shareStory('{{ site.title }}', '{{ site.production_url }}{{ page.url | remove_first: '/' }}')">
+                <img src="{{ site.baseurl }}assets/images/bonhair/common/share/kakaostory.png"/>
+            </a>
+            <a id="kakao-link-btn" class="floating-header-share-fb" onclick="javascript:sendLink('{{ site.title }}', '{{ site.production_url }}{{ page.url | remove_first: '/' }}', '{{ site.production_url }}{{ page.cover }}');" >
+                <img src="{{ site.baseurl }}assets/images/bonhair/common/share/kakao.png"/>
+            </a>
+            <a class="floating-header-share-fb" href="sms://?body={{ site.production_url }}{{ page.url | remove_first: '/' }}">
+                <img src="{{ site.baseurl }}assets/images/bonhair/common/share/sms.png"/>
+            </a>
+        </div>
+        <progress class="progress" value="0">
+            <div class="progress-container">
+                <span class="progress-bar"></span>
+            </div>
+        </progress>
+    </div>
+
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
         {{ content }}
