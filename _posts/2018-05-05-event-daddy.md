@@ -32,7 +32,11 @@ author: bonhair
 - 중복할인 및 선불권 이용은 제한됩니다.<br>
 - 예약 시 해당 이벤트를 꼭! 말해주세요.<br>
 - 고등학교 이하 자녀가 있으신 부모님만 해당됩니다.<br>
-- 홈페이지 공유 / 고객등록 필수</center>
+- 홈페이지 공유 / 고객등록 필수<br><br>
+
+<span style="color:red; font-weight: bold">이벤트 시술은 환불 & 재시술 불가 합니다.</span>
+
+</center>
 <br>
 
 <center>예약문의 041.622.8822</center>

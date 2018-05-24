@@ -30,7 +30,13 @@ author: bonhair
 
 - 학색인증이 필요해요~ 학생증 있죠<br>
 - 고객등록 & 홈페이지 공유 부탁해요<br>
-- 홈페이지 공유 / 고객등록 필수</center>
+- 홈페이지 공유 / 고객등록 필수
+
 <br>
+<br>
+<span style="color:red; font-weight: bold">이벤트 시술은 환불 & 재시술 불가 합니다.</span>
+</center>
+<br>
+
 
 <center>예약문의 041.622.8822</center>
