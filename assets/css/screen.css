@@ -1371,7 +1371,6 @@ Usage (In Ghost editor):
 /* ---------------------------------------------------------- */
 .main-floating-header {
     visibility: visible;
-    position: fixed;
     top: 0;
     right: 0;
     left: 0;
