@@ -13,7 +13,7 @@ author: bonhair
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/01.jpg" alt="Small Test Image" /></p>
 
 <center>원장 이창원</center>
-<p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/chang-won.jpg" alt="Small Test Image" /></p>
+<p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/chang-won.jpeg" alt="Small Test Image" /></p>
 <center>매니저 지수</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/ji-su.jpg" alt="Small Test Image" /></p>
 <center>실장 M.JAY(준영)</center>
