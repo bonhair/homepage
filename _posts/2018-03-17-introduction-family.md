@@ -14,8 +14,6 @@ author: bonhair
 
 <center>원장 이창원</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/chang-won.jpeg" alt="Small Test Image" /></p>
-<center>매니저 지수</center>
-<p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/ji-su.jpg" alt="Small Test Image" /></p>
 <center>실장 M.JAY(준영)</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/jun-yeong.jpg" alt="Small Test Image" /></p>
 <center>실장 Lizzy(나영)</center>
@@ -34,7 +32,5 @@ author: bonhair
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/eun-yeong.jpg" alt="Small Test Image" /></p>
 <center>Js. 수지</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/su-ji.jpg" alt="Small Test Image" /></p>
-<center>Js. 다솔</center>
-<p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/da-sol.jpg" alt="Small Test Image" /></p>
 <center>인턴 예슬</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/ye-seul.jpg" alt="Small Test Image" /></p>
