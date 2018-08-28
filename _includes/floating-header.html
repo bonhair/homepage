@@ -13,27 +13,21 @@
         });
     }
 
-    function sendLink(title, url, image) {
-        try   {
-            if (Kakao) {
-                Kakao.init('0e15a0429ed928f58ed88d15c83e55fe');
-            };
-        } catch(e) {};
-        // 카카오톡 링크 버튼을 생성합니다. 처음 한번만 호출하면 됩니다.
-        Kakao.Link.createTalkLinkButton({
-            container: '#kakao-link-btn',
-            label: title,
-            image: {
-                src: image,
-                width: '300',
-                height: '200'
-            },
-            webButton: {
-                text: '홈페이지 방문하기',
-                url: url // 앱 설정의 웹 플랫폼에 등록한 도메인의 URL이어야 합니다.
-            }
-        });
-    }
+    //<![CDATA[
+    // // 사용할 앱의 JavaScript 키를 설정해 주세요.
+    Kakao.init('0e15a0429ed928f58ed88d15c83e55fe');
+    // // 카카오링크 버튼을 생성합니다. 처음 한번만 호출하면 됩니다.
+    // 카카오톡 링크 버튼을 생성합니다. 처음 한번만 호출하면 됩니다.
+    Kakao.Link.createCustomButton({
+        container: '#kakao-link-btn',
+        templateId: 11946,
+        templateArgs: {
+            'title': '{{ site.title }}',
+            'pageUrl': '{{ page.url | remove_first: '/' }}',
+            'imageSrc': '{{ site.production_url }}{{ page.cover }}'
+        }
+    });
+    //]]>
 
 </script>
 <div class="floating-header">
@@ -59,17 +53,14 @@
             <img src="{{ site.baseurl }}assets/images/bonhair/common/share/naver.png"/>
         </a>
         <div style="width: 10px"></div>
-        <!--
-        <a class="floating-header-share-fb" onclick="javascript:shareStory('{{ site.title }}', '{{ site.production_url }}{{ page.url | remove_first: '/' }}')">
+        <a class="floating-header-share-fb" href="javascript:shareStory('{{ site.title }}', '{{ site.production_url }}{{ page.url | remove_first: '/' }}')">
             <img src="{{ site.baseurl }}assets/images/bonhair/common/share/kakaostory.png"/>
         </a>
-
-        <div style="width: 8px"></div>
-        <a id="kakao-link-btn" class="floating-header-share-fb" onclick="javascript:sendLink('{{ site.title }}', '{{ site.production_url }}{{ page.url | remove_first: '/' }}', '{{ site.production_url }}{{ page.cover }}');" >
+        <div style="width: 10px"></div>
+        <a id="kakao-link-btn" class="floating-header-share-fb" href="javascript:alert(1);">
             <img src="{{ site.baseurl }}assets/images/bonhair/common/share/kakao.png"/>
         </a>
-        <div style="width: 8px"></div>
-        -->
+        <div style="width: 10px"></div>
         <a class="floating-header-share-fb" href="sms://?body={{ site.production_url }}{{ page.url | remove_first: '/' }}">
             <img src="{{ site.baseurl }}assets/images/bonhair/common/share/sms.png"/>
         </a>
