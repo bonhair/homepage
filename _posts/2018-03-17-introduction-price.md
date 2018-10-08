@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/bonhair/content/introduction/price/00.jpeg
 navigation: True
 title: 디자인 가격표
-date: 2018-03-31 10:00:00
+date: 2020-01-01 10:00:00
 tags: [소개]
 class: post-template
 subclass: 'post tag-introduction'
