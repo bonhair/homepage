@@ -22,7 +22,9 @@ author: bonhair
 <center>오전 10시 ~ 오후 6시 <mark>무료 커트</mark></center>
 <center>오후 7시 ~ 오후 10시 <mark>각성 파티</mark></center>
 <center>각성파티에 환상적인 라인업의 디제잉파티!</center>
+
 <center>경품 행사</center>
+<center><a href="https://gvntapp.com/event/?no=649">이벤트 티켓 구매 홈페이지로 이동</a></center>
 
 <br>
 <center><h4>&nbsp;-&nbsp;안내 사항&nbsp;-&nbsp;</h4></center>
