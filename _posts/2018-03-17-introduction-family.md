@@ -22,8 +22,6 @@ author: bonhair
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/yu-li.jpg" alt="Small Test Image" /></p>
 <center>디자이너 영석</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/yeong-seog.jpg" alt="Small Test Image" /></p>
-<center>디자이너 여리</center>
-<p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/yeo-li.jpg" alt="Small Test Image" /></p>
 <center>디자이너 민지</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/min-ji.jpg" alt="Small Test Image" /></p>
 <center>Js. 희정</center>
