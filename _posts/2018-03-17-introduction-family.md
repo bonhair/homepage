@@ -16,8 +16,6 @@ author: bonhair
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/jun-yeong.jpg" alt="Small Test Image" /></p>
 <center>실장 Lizzy(나영)</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/na-yeong.jpg" alt="Small Test Image" /></p>
-<center>실장 유리</center>
-<p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/yu-li.jpg" alt="Small Test Image" /></p>
 <center>디자이너 영석</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/yeong-seog.jpg" alt="Small Test Image" /></p>
 <center>디자이너 민지</center>
@@ -28,7 +26,5 @@ author: bonhair
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/eun-yeong.jpg" alt="Small Test Image" /></p>
 <center>스타일리스트 수지</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/su-ji.jpg" alt="Small Test Image" /></p>
-<center>인턴 예슬</center>
-<p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/ye-seul.jpg" alt="Small Test Image" /></p>
 <center>원장 이창원</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/chang-won.jpeg" alt="Small Test Image" /></p>
