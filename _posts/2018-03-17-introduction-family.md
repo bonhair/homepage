@@ -22,8 +22,6 @@ author: bonhair
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/min-ji.jpg" alt="Small Test Image" /></p>
 <center>Js. 희정</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/hui-jeong.jpg" alt="Small Test Image" /></p>
-<center>Js. 은영</center>
-<p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/eun-yeong.jpg" alt="Small Test Image" /></p>
 <center>스타일리스트 수지</center>
 <p><img src="{{ site.baseurl }}assets/images/bonhair/content/introduction/family/su-ji.jpg" alt="Small Test Image" /></p>
 <center>원장 이창원</center>
