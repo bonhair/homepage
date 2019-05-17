@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/bonhair/content/event/student/00.jpg
 navigation: True
 title: 나는 학생이다
-date: 2018-05-08 10:00:00
+date: 2019-05-14 11:00:00
 tags: [이벤트]
 class: post-template
 subclass: 'post tag-event'
@@ -25,10 +25,11 @@ author: bonhair
 - 모발 <mark>데미지</mark>가 심할 경우나 <mark>특수 디자인</mark> 시 이벤트 금액이 불가합니다.<br>
 - <mark>중복 할인</mark> 및 <mark>선불권</mark> 이용은 제한됩니다.<br>
 - 예약 시 해당 이벤트를 꼭! 말해주세요.<br>
-- 재학중인 대학생까지 해당됩니다.<br>
+- 네이버 예약 시 시술 선택 중 이벤트 항목에 있는 시술 메뉴 선택해주세요.<br>
+- <mark>재학중</mark>인 대학생까지 해당됩니다.<br>
 - 예약시간보다 <mark>30분</mark> 이상 늦을 시 자동 취소됩니다.<br>
 - 방문 시 학생증 인증이 필요합니다.<br>
-- <mark>홈페이지 공유 / 고객등록 필수</mark><br>
+- <mark>리뷰남기기 / 고객등록 필수</mark><br>
 <br>
 <span style="color:red; font-weight: bold">이벤트 시술은 환불 & 재시술 불가 합니다.</span>
 </center>
