@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/bonhair/content/event/month/f0.jpeg
+cover:  assets/images/bonhair/content/event/month/f0.jpg
 navigation: True
 title: 이번 달의 혜자 프로모션!
 date: 2018-05-08 10:00:00
@@ -11,4 +11,4 @@ subclass: 'post tag-event'
 author: bonhair
 ---
 
-<p><img src="{{ site.baseurl }}assets/images/bonhair/content/event/month/01.jpeg" alt="Small Test Image" /></p>
+<p><img src="{{ site.baseurl }}assets/images/bonhair/content/event/month/01.jpg" alt="Small Test Image" /></p>
