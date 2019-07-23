@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/bonhair/content/event/daddy/00.jpg
+cover:  assets/images/bonhair/content/event/daddy/f0.jpg
 navigation: True
 title: 자유부인&아빠힘내세요
 date: 2019-05-14 11:10:00

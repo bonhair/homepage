@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/bonhair/content/event/student/00.jpg
+cover:  assets/images/bonhair/content/event/student/f0.jpg
 navigation: True
 title: 나는 학생이다
 date: 2019-05-14 11:00:00
